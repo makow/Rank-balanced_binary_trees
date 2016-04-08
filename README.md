@@ -1,4 +1,4 @@
-# Rank-balanced_binary_trees
+# Rank-balanced binary trees
 
 Herein are implementations of trees described by the rank-balanced framework (Haeupler, B., Sen, S., and Tarjan, R. E. (2015). Rank-Balanced Trees. ACM Transactions on Algorithms, 11(4):1–26), specifically, AVL, WAVL, 2-3 and 2-3-4 trees.
 
